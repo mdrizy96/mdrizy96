@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Hi there! 👋
 I am a fullstack software engineer from Nairobi, KE
-- 🔭 Working on multiple frontend and backend projects using .NET, React and Angular
+- 🔭 Working on frontend and backend projects using .NET and anything else that is interesting
 - 🌱 Learning best development and deployment practices for the languages and tools I use
 - 💬 Ask me about software
 
